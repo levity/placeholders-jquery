@@ -1,0 +1,10 @@
+{
+  "name": "placeholders-jquery",
+  "version": "3.0.2",
+  "main": "placeholders.jquery.js",
+  "ignore": [
+    "LICENSE",
+    "*.json",
+    "*.md"
+  ]
+}
